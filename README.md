@@ -81,6 +81,8 @@
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" height="30" alt="mariadb logo"  />
    <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Linux_Mint.png" height="30" alt="linux mint logo"  />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/minecraft-icon-2048x2048-3ifq7gy7.png" height="30" alt="minecraft logo"  />
 </div>
 
 ###
