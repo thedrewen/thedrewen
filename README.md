@@ -79,6 +79,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
  <img width="12" />
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" height="30" alt="mariadb logo"  />
+   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Linux_Mint.png" height="30" alt="linux mint logo"  />
 </div>
 
 ###
