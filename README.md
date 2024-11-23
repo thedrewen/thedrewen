@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="159" src="https://github.com/thedrewen/thedrewen/blob/main/Variant.gif?raw=true"  />
 
 ###
 
@@ -85,12 +84,16 @@
   <img src="https://static-00.iconduck.com/assets.00/minecraft-icon-2048x2048-3ifq7gy7.png" height="30" alt="minecraft logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="30" alt="VueJs"  />
+  <img width="12" />
+  <img src="https://nuxt.com/assets/design-kit/icon-green.svg" height="30" alt="NuxtJS3"  />
+  <img width="12" />
+  <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=128,quality=90,fit=scale-down" height="30" alt="Strapi"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/channel/UCjxJrN-rEJ460dGXKeOJ-OQ" target="_blank">
+  <a href="https://www.youtube.com/@TheDreWen" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.twitch.tv/thedrewen_" target="_blank">
