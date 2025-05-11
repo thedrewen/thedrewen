@@ -86,7 +86,7 @@
   <img width="12" />
   <img src="https://nuxt.com/assets/design-kit/icon-green.svg" height="30" alt="NuxtJS3"  />
   <img width="12" />
-  <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=128,quality=90,fit=scale-down" height="30" alt="Strapi"  />
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="30" alt="NextJs"  />
 </div>
 
 ###
