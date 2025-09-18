@@ -45,7 +45,7 @@ I am a passionate developer experienced in building web applications, backends, 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
-[![Under Scape Host](https://img.shields.io/badge/underscape%20host-FREE Click for join-purple)](https://under-scape.com/join)
+[![Under Scape Host](https://img.shields.io/badge/underscape%20host-FREE%20Click%20for%20join-purple)](https://under-scape.com/join)
 
 ## 🔬 Areas of Expertise
 - Web development
