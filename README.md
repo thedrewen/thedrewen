@@ -76,6 +76,8 @@
   <img src="https://nuxt.com/assets/design-kit/icon-green.svg" height="30" alt="NuxtJS3"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="30" alt="NextJs"  />
+  <img width="12" />
+  <img src="https://nestjs.com/img/logo-small.svg" height="30" alt="NestJs"  />
 </div>
 
 ###
