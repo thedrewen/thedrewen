@@ -78,6 +78,8 @@
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="30" alt="NextJs"  />
   <img width="12" />
   <img src="https://nestjs.com/img/logo-small.svg" height="30" alt="NestJs"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" height="30" alt="EndeavourOs"  />
 </div>
 
 ###
