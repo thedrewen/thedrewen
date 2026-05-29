@@ -4,7 +4,7 @@
 I am a passionate developer experienced in building web applications, backends, and microservices. My main focus is on backend development, but I also have experience with frontend technologies and microservice testing.
 
 ## 📊 My GitHub Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedrewen&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![TheDreWen's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedrewen)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Tech Stack
 
